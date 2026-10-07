@@ -24,7 +24,7 @@
                 "input": "public"
               },
               {
-                "glob": "aloshi.jpeg",
+                "glob": "**/*",
                 "input": "src/assets",
                 "output": "assets"
               }
